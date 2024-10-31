@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\bin\Debug\net8.0\sumfiveints.exe
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\bin\Debug\net8.0\sumfiveints.deps.json
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\bin\Debug\net8.0\sumfiveints.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\bin\Debug\net8.0\sumfiveints.dll
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\bin\Debug\net8.0\sumfiveints.pdb
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.dll
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\refint\sumfiveints.dll
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.pdb
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\sumfiveints.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\Sumfiveints\sumfiveints\obj\Debug\net8.0\ref\sumfiveints.dll

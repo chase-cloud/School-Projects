@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\PersonalInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF07C7-A89A-4AE5-AE50-8883AA639AB8}|PersonalInfo\\PersonalInfo.csproj|c:\\users\\chase.woolum\\source\\repos\\personalinfo\\personalinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF07C7-A89A-4AE5-AE50-8883AA639AB8}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\PersonalInfo\\PersonalInfo\\Program.cs",
+              "RelativeDocumentMoniker": "PersonalInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\PersonalInfo\\PersonalInfo\\Program.cs",
+              "RelativeToolTip": "PersonalInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:14:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

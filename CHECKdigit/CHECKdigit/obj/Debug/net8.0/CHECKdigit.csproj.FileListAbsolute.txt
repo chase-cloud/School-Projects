@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\bin\Debug\net8.0\CHECKdigit.exe
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\bin\Debug\net8.0\CHECKdigit.deps.json
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\bin\Debug\net8.0\CHECKdigit.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\bin\Debug\net8.0\CHECKdigit.dll
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\bin\Debug\net8.0\CHECKdigit.pdb
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.dll
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\refint\CHECKdigit.dll
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.pdb
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\CHECKdigit.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\CHECKdigit\CHECKdigit\obj\Debug\net8.0\ref\CHECKdigit.dll

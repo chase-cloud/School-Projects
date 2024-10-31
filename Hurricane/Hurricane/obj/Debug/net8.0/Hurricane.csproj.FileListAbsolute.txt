@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\bin\Debug\net8.0\Hurricane.exe
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\bin\Debug\net8.0\Hurricane.deps.json
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\bin\Debug\net8.0\Hurricane.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\bin\Debug\net8.0\Hurricane.dll
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\bin\Debug\net8.0\Hurricane.pdb
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.dll
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\refint\Hurricane.dll
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.pdb
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\Hurricane.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\Hurricane\Hurricane\obj\Debug\net8.0\ref\Hurricane.dll

@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\bin\Debug\net8.0\PersonalInfo.exe
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\bin\Debug\net8.0\PersonalInfo.deps.json
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\bin\Debug\net8.0\PersonalInfo.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\bin\Debug\net8.0\PersonalInfo.dll
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\bin\Debug\net8.0\PersonalInfo.pdb
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.dll
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\refint\PersonalInfo.dll
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.pdb
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\PersonalInfo.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\PersonalInfo\PersonalInfo\obj\Debug\net8.0\ref\PersonalInfo.dll

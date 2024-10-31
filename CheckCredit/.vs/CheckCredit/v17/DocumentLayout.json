@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\CheckCredit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E275B9AE-5619-418D-82D7-95F7C3046C66}|CheckCredit\\CheckCredit.csproj|c:\\users\\chase.woolum\\source\\repos\\checkcredit\\checkcredit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E275B9AE-5619-418D-82D7-95F7C3046C66}|CheckCredit\\CheckCredit.csproj|solutionrelative:checkcredit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\CheckCredit\\CheckCredit\\Program.cs",
+              "RelativeDocumentMoniker": "CheckCredit\\Program.cs",
+              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\CheckCredit\\CheckCredit\\Program.cs",
+              "RelativeToolTip": "CheckCredit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:46:25.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

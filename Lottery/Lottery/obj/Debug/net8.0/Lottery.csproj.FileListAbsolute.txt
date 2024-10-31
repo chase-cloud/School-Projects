@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\bin\Debug\net8.0\Lottery.exe
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\bin\Debug\net8.0\Lottery.deps.json
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\bin\Debug\net8.0\Lottery.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\bin\Debug\net8.0\Lottery.dll
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\bin\Debug\net8.0\Lottery.pdb
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.dll
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\refint\Lottery.dll
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.pdb
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\Lottery.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\Lottery\Lottery\obj\Debug\net8.0\ref\Lottery.dll

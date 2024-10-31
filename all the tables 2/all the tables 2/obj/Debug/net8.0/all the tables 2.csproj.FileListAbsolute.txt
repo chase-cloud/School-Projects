@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\bin\Debug\net8.0\all the tables 2.exe
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\bin\Debug\net8.0\all the tables 2.deps.json
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\bin\Debug\net8.0\all the tables 2.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\bin\Debug\net8.0\all the tables 2.dll
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\bin\Debug\net8.0\all the tables 2.pdb
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.dll
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\refint\all the tables 2.dll
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.pdb
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\all the tables 2.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\all the tables 2\all the tables 2\obj\Debug\net8.0\ref\all the tables 2.dll
