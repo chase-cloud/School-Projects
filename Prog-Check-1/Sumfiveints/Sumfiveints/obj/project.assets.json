@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chase.woolum\\source\\repos\\Sumfiveints\\Sumfiveints\\Sumfiveints.csproj",
-      "projectName": "Sumfiveints",
-      "projectPath": "C:\\Users\\chase.woolum\\source\\repos\\Sumfiveints\\Sumfiveints\\Sumfiveints.csproj",
+      "projectUniqueName": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\Sumfiveints\\sumfiveints\\sumfiveints.csproj",
+      "projectName": "sumfiveints",
+      "projectPath": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\Sumfiveints\\sumfiveints\\sumfiveints.csproj",
       "packagesPath": "C:\\Users\\chase.woolum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chase.woolum\\source\\repos\\Sumfiveints\\Sumfiveints\\obj\\",
+      "outputPath": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\Sumfiveints\\sumfiveints\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

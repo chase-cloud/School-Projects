@@ -13,7 +13,11 @@
             int userNumber = Convert.ToInt16(userInput);
             if (randomNumber == userNumber)
             {
-                Console.WriteLine("You lost");
+                Console.WriteLine("You win");
+            }
+            if (randomNumber !=userNumber)
+            {
+                Console.WriteLine("Low");
             }
             Console.WriteLine("Random number" + randomNumber);
             

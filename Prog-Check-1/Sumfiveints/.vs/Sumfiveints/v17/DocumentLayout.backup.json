@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\Sumfiveints\\",
+  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\Sumfiveints\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA242E20-F03A-454A-BDAA-8B685DE05134}|sumfiveints\\sumfiveints.csproj|c:\\users\\chase.woolum\\source\\repos\\sumfiveints\\sumfiveints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA242E20-F03A-454A-BDAA-8B685DE05134}|sumfiveints\\sumfiveints.csproj|c:\\users\\chase.woolum\\source\\repos\\school-projects\\prog-check-1\\sumfiveints\\sumfiveints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA242E20-F03A-454A-BDAA-8B685DE05134}|sumfiveints\\sumfiveints.csproj|solutionrelative:sumfiveints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\Sumfiveints\\Sumfiveints\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\Sumfiveints\\Sumfiveints\\Program.cs",
               "RelativeDocumentMoniker": "Sumfiveints\\Program.cs",
-              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\Sumfiveints\\Sumfiveints\\Program.cs*",
-              "RelativeToolTip": "Sumfiveints\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\Sumfiveints\\Sumfiveints\\Program.cs",
+              "RelativeToolTip": "Sumfiveints\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T18:11:15.436Z",
               "EditorCaption": ""

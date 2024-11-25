@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sumfiveints")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5244a4416359435de684ecc0e4404d23ab5f8bba")]
 [assembly: System.Reflection.AssemblyProductAttribute("sumfiveints")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sumfiveints")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

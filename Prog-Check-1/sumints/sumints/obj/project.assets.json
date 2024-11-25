@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chase.woolum\\source\\repos\\sumints\\sumints\\sumints.csproj",
+      "projectUniqueName": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\sumints\\sumints\\sumints.csproj",
       "projectName": "sumints",
-      "projectPath": "C:\\Users\\chase.woolum\\source\\repos\\sumints\\sumints\\sumints.csproj",
+      "projectPath": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\sumints\\sumints\\sumints.csproj",
       "packagesPath": "C:\\Users\\chase.woolum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chase.woolum\\source\\repos\\sumints\\sumints\\obj\\",
+      "outputPath": "C:\\Users\\chase.woolum\\source\\repos\\School-Projects\\Prog-Check-1\\sumints\\sumints\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

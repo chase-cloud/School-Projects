@@ -1,0 +1,15 @@
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\bin\Debug\net8.0\sumints.exe
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\bin\Debug\net8.0\sumints.deps.json
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\bin\Debug\net8.0\sumints.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\bin\Debug\net8.0\sumints.dll
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\bin\Debug\net8.0\sumints.pdb
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.sourcelink.json
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.dll
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\refint\sumints.dll
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.pdb
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\sumints.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\School-Projects\Prog-Check-1\sumints\sumints\obj\Debug\net8.0\ref\sumints.dll
