@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\perfect\perfect\bin\Debug\net8.0\perfect.exe
+C:\Users\chase.woolum\source\repos\perfect\perfect\bin\Debug\net8.0\perfect.deps.json
+C:\Users\chase.woolum\source\repos\perfect\perfect\bin\Debug\net8.0\perfect.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\perfect\perfect\bin\Debug\net8.0\perfect.dll
+C:\Users\chase.woolum\source\repos\perfect\perfect\bin\Debug\net8.0\perfect.pdb
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.dll
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\refint\perfect.dll
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.pdb
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\perfect.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\perfect\perfect\obj\Debug\net8.0\ref\perfect.dll

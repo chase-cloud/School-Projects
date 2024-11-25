@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\bin\Debug\net8.0\Oddnums.exe
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\bin\Debug\net8.0\Oddnums.deps.json
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\bin\Debug\net8.0\Oddnums.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\bin\Debug\net8.0\Oddnums.dll
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\bin\Debug\net8.0\Oddnums.pdb
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.dll
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\refint\Oddnums.dll
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.pdb
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\Oddnums.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\Oddnums\Oddnums\obj\Debug\net8.0\ref\Oddnums.dll

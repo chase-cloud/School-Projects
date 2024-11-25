@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\bin\Debug\net8.0\Enter upper letter.exe
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\bin\Debug\net8.0\Enter upper letter.deps.json
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\bin\Debug\net8.0\Enter upper letter.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\bin\Debug\net8.0\Enter upper letter.dll
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\bin\Debug\net8.0\Enter upper letter.pdb
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.dll
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\refint\Enter upper letter.dll
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.pdb
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\Enter upper letter.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\Enter upper letter\Enter upper letter\obj\Debug\net8.0\ref\Enter upper letter.dll

@@ -1,0 +1,14 @@
+C:\Users\chase.woolum\source\repos\sum200\sum200\bin\Debug\net8.0\sum200.exe
+C:\Users\chase.woolum\source\repos\sum200\sum200\bin\Debug\net8.0\sum200.deps.json
+C:\Users\chase.woolum\source\repos\sum200\sum200\bin\Debug\net8.0\sum200.runtimeconfig.json
+C:\Users\chase.woolum\source\repos\sum200\sum200\bin\Debug\net8.0\sum200.dll
+C:\Users\chase.woolum\source\repos\sum200\sum200\bin\Debug\net8.0\sum200.pdb
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.AssemblyInfoInputs.cache
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.AssemblyInfo.cs
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.csproj.CoreCompileInputs.cache
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.dll
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\refint\sum200.dll
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.pdb
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\sum200.genruntimeconfig.cache
+C:\Users\chase.woolum\source\repos\sum200\sum200\obj\Debug\net8.0\ref\sum200.dll

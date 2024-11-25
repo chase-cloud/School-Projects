@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\perfect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93510BAA-F2F1-4D16-8929-0342E9B4C6A6}|perfect\\perfect.csproj|c:\\users\\chase.woolum\\source\\repos\\perfect\\perfect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93510BAA-F2F1-4D16-8929-0342E9B4C6A6}|perfect\\perfect.csproj|solutionrelative:perfect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\perfect\\perfect\\Program.cs",
+              "RelativeDocumentMoniker": "perfect\\Program.cs",
+              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\perfect\\perfect\\Program.cs*",
+              "RelativeToolTip": "perfect\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:07:09.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
