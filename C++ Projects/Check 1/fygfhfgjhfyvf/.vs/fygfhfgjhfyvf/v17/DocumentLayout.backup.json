@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\fygfhfgjhfyvf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1F9E0-7C7B-4749-8180-BAFC29ED922A}|fygfhfgjhfyvf\\fygfhfgjhfyvf.vcxproj|C:\\Users\\chase.woolum\\source\\repos\\fygfhfgjhfyvf\\fygfhfgjhfyvf\\fygfhfgjhfyvf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E1F9E0-7C7B-4749-8180-BAFC29ED922A}|fygfhfgjhfyvf\\fygfhfgjhfyvf.vcxproj|solutionrelative:fygfhfgjhfyvf\\fygfhfgjhfyvf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fygfhfgjhfyvf.cpp",
+              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\fygfhfgjhfyvf\\fygfhfgjhfyvf\\fygfhfgjhfyvf.cpp",
+              "RelativeDocumentMoniker": "fygfhfgjhfyvf\\fygfhfgjhfyvf.cpp",
+              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\fygfhfgjhfyvf\\fygfhfgjhfyvf\\fygfhfgjhfyvf.cpp*",
+              "RelativeToolTip": "fygfhfgjhfyvf\\fygfhfgjhfyvf.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T19:20:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

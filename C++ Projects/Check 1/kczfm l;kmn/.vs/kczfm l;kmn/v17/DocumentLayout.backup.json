@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chase.woolum\\source\\repos\\kczfm l;kmn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395A8649-E1D4-4886-8BE3-139CEA21BC2C}|kczfm l;kmn\\kczfm l;kmn.vcxproj|C:\\Users\\chase.woolum\\source\\repos\\kczfm l;kmn\\kczfm l;kmn\\kczfm l;kmn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{395A8649-E1D4-4886-8BE3-139CEA21BC2C}|kczfm l;kmn\\kczfm l;kmn.vcxproj|solutionrelative:kczfm l;kmn\\kczfm l;kmn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kczfm l;kmn.cpp",
+              "DocumentMoniker": "C:\\Users\\chase.woolum\\source\\repos\\kczfm l;kmn\\kczfm l;kmn\\kczfm l;kmn.cpp",
+              "RelativeDocumentMoniker": "kczfm l;kmn\\kczfm l;kmn.cpp",
+              "ToolTip": "C:\\Users\\chase.woolum\\source\\repos\\kczfm l;kmn\\kczfm l;kmn\\kczfm l;kmn.cpp*",
+              "RelativeToolTip": "kczfm l;kmn\\kczfm l;kmn.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T19:23:26.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
